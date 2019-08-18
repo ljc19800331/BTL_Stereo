@@ -10,9 +10,10 @@ The code consists of two parts:
 2. Vimba Code (using two Prosilica GC1020 cameras), please set up the two Prosilica GC1020 cameras before using this code.
 
 For each section of the code, the following functions are included:
-1. Capture two images at one time (Calibration image pair) 
-2. Realtime image pair visualization (show two images in realtime with opencv tools)
-3. 3D reconstruction based on StereoVision
+0. Please change the path of the image folder at the initialization function.
+1. Capture two images at one time (Calibration image pair).
+2. Realtime image pair visualization (show two images in realtime with opencv tools).
+3. 3D reconstruction based on StereoVision.
   a. For StereoVision_Logitech.py, the reconstruction code is included.
   b. For StereoVision_Vimba.py, the recontruction code is not included but the StereoVision_Logitech.py code can be used for this section. The user can modify the code with specific application.
 
