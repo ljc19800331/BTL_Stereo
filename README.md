@@ -17,10 +17,10 @@ For each section of the code, the following functions are included:
   b. For StereoVision_Vimba.py, the recontruction code is not included but the StereoVision_Logitech.py code can be used for this section. The user can modify the code with specific application.
 
 Other important notes: 
-1. Calibration board and techniques 
+1. Calibration board and techniques (recommend to use a larger calibration board) 
 
-2. Camera Setting 
+2. Camera Setting (recommend for parallel setting)
 
-3. The 3D visualization 
+3. The 3D visualization with VTK
 
 4. The 3D Realtime Visualization (so far the speeding issue is not solved)
