@@ -7,7 +7,7 @@ All the codes are created based on the following references:
 
 The code consists of two parts:
 1. Logitech Code (using two Logitech C270 Webcam) 
-2. Vimba Code (using two Prosilica GC1020 cameras)
+2. Vimba Code (using two Prosilica GC1020 cameras), please set up the two Prosilica GC1020 cameras before using this code.
 
 For each section of the code, the following functions are included:
 1. Capture two images at one time (Calibration image pair) 
