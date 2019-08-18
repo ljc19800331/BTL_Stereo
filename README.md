@@ -15,3 +15,12 @@ For each section of the code, the following functions are included:
 3. 3D reconstruction based on StereoVision
   a. For StereoVision_Logitech.py, the reconstruction code is included.
   b. For StereoVision_Vimba.py, the recontruction code is not included but the StereoVision_Logitech.py code can be used for this section. The user can modify the code with specific application.
+
+Other important notes: 
+1. Calibration board and techniques 
+
+2. Camera Setting 
+
+3. The 3D visualization 
+
+4. The 3D Realtime Visualization (so far the speeding issue is not solved)
