@@ -22,6 +22,7 @@ Other important notes:
   a. For Camera with small Field of View or if the object distance is relatively small ( < 30 cm), use a small calibration board
   b. For other camera setting, e.g Two logitech C270 cameras, use a large calibration board. 
 2. Camera Setting 
+  a. For the first time, the parallel setting is recommended for higher calibration accuracy. 
 
 3. The 3D visualization with VTK
 
