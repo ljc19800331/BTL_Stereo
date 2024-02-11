@@ -8,15 +8,16 @@ The most updated vimba-camera code is updated:
 1. The new codebase is updated (please check the main .py files)
 2. The document provides the camera easy-setup tutorial (please check this before using the camera). 
 
+The code consists of two parts:
+1. Logitech Code (using two Logitech C270 Webcam) 
+2. Vimba Code (using two Prosilica GC1020 cameras), please set up the two Prosilica GC1020 cameras before using this code.
+3. Imaging source camera module. 
+
 This is the code for Stereo Vision using Prosilica and Logitech cameras in Brain Tool Lab, Duke University.
 All the codes are created based on the following references: 
 1. Pymba Python wrapper: https://github.com/morefigs/pymba
 2. Python VTK: Visualization Tool Kit and example codes online
 3. Python Opencv Example codes in Github
-
-The code consists of two parts:
-1. Logitech Code (using two Logitech C270 Webcam) 
-2. Vimba Code (using two Prosilica GC1020 cameras), please set up the two Prosilica GC1020 cameras before using this code.
 
 For each section of the code, the following functions are included:
 
