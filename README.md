@@ -1,4 +1,13 @@
 # BTL_Stereo
+
+Draft: Guangshen Ma, Ph.D.
+
+Update: 02/10/2024
+
+The most updated vimba-camera code is updated: 
+1. The new codebase is updated (please check the main .py files)
+2. The document provides the camera easy-setup tutorial (please check this before using the camera). 
+
 This is the code for Stereo Vision using Prosilica and Logitech cameras in Brain Tool Lab, Duke University.
 All the codes are created based on the following references: 
 1. Pymba Python wrapper: https://github.com/morefigs/pymba
