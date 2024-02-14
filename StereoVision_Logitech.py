@@ -28,12 +28,12 @@ class StereoLogitech():
         self.CamRightID = 0
 
         # Define the calibration image folder
-        self.calibrate_left = 'C:/Users/braintool/PycharmProjects/BTL_Stereo/Data_Logitech/Calibration_Left_Logitech/'
-        self.calibrate_right = 'C:/Users/braintool/PycharmProjects/BTL_Stereo/Data_Logitech/Calibration_Right_Logitech/'
+        self.calibrate_left = './Data_Logitech/Calibration_Left_Logitech/'
+        self.calibrate_right = './Data_Logitech/Calibration_Right_Logitech/'
 
         # Define the images for 3D reconstruction
-        self.left_show = 'C:/Users/braintool/PycharmProjects/BTL_Stereo/Data_Logitech/img_left.jpg'
-        self.right_show = 'C:/Users/braintool/PycharmProjects/BTL_Stereo/Data_Logitech/img_right.jpg'
+        self.left_show = './Data_Logitech/img_left.jpg'
+        self.right_show = './Data_Logitech/img_right.jpg'
 
     def Stereo_Calib(self):
 

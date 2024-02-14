@@ -23,10 +23,10 @@ class StereoVimba():
     def __init__(self):
         self.CalibrationNimg = 5    # Number of calibration images
         self.Nimg = 5               # Number of images
-        self.Calibration_left = 'C:/Users/braintool/PycharmProjects/BTL_Stereo/Calibration_Left_Vimba/'
-        self.Calibration_right = 'C:/Users/braintool/PycharmProjects/BTL_Stereo/Calibration_Right_Vimba/'
-        self.path_left_show = 'C:/Users/braintool/PycharmProjects/BTL_Stereo/Data_Vimba/Left_Show/'
-        self.path_right_show = 'C:/Users/braintool/PycharmProjects/BTL_Stereo/Data_Vimba/Right_Show/'
+        self.Calibration_left = './Calibration_Left_Vimba/'
+        self.Calibration_right = './Calibration_Right_Vimba/'
+        self.path_left_show = './Data_Vimba/Left_Show/'
+        self.path_right_show = './Data_Vimba/Right_Show/'
 
     def GetCalibrationImg(self):
 
